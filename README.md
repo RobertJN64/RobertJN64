@@ -1,4 +1,4 @@
-Developing embedded software and machine learning projects in python and c++.
+Developing embedded software, robotics, and machine learning projects in python and c++.
 
 Check out https://github.com/RobertJN64/DroneBoat for an example of an advanced robotics project.
 
